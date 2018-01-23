@@ -1,2 +1,2 @@
-# Dimecoin-6.9
-Dimecoin Version 6.9
+# Dimecoin Wallet Version 1.5
+
